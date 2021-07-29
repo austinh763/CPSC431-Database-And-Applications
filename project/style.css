@@ -1,0 +1,57 @@
+body {
+    background: #0471df;
+    background-image: url("https://image.shutterstock.com/image-photo/urban-architecture-office-building-business-260nw-1339962440.jpg");
+      background-repeat: no-repeat;
+     background-size: cover;}
+.form {
+    margin: 50px auto;
+    width: 300px;
+    padding: 30px 25px;
+    background: rgb(133, 179, 238);
+}
+h1.login-title {
+    color: rgb(14, 13, 13);
+    margin: 0px auto 25px;
+    font-size: 25px;
+    font-weight: 300;
+    text-align: center;
+}
+.login-input {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+}
+.login-input:focus {
+    border-color:#5e29f0;
+    outline: none;
+}
+.login-button {
+    color: rgb(36, 33, 33);
+    background: #136fe0;
+    border: 30;
+    outline: 50;
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+}
+.link {
+    color: rgb(14, 13, 13);
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.link a {
+    color: rgb(14, 13, 13);
+}
+.link b{
+    color: rgb(14, 13, 13);
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
